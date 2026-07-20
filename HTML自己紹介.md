@@ -1,3 +1,4 @@
+
 # Welcome to My Profile!
 
 HTMLの練習用に作った、私のはじめてのWebページです。
@@ -22,7 +23,7 @@ HTMLの練習用に作った、私のはじめてのWebページです。
 
 ## 猫の画像
 
-![猫の画像](IMG_1370.jpeg)
+![猫の画像](IMG_1370.jpeg)<img width="4032" height="3024" alt="IMG_1370" src="https://github.com/user-attachments/assets/efcbfff3-c1fb-4c56-87af-8bc6348d9439" />
 
 ---
 
