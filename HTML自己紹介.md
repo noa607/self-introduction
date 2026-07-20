@@ -23,7 +23,7 @@ HTMLの練習用に作った、私のはじめてのWebページです。
 
 ## 猫の画像
 
-![猫の画像](https://github.com/user-attachments/assets/d19799d2-9b41-4ca5-bcc6-4024cc800160)
+![猫](https://github.com/user-attachments/assets/d19799d2-9b41-4ca5-bcc6-4024cc800160)
 
 
 ---
